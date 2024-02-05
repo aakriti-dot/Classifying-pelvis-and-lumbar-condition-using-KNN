@@ -1,4 +1,4 @@
-# Classifying biomechanical attributes using KNN
+# Classifying pelvis and lumbar condition using KNN
 The dataset is available at : http://archive.ics.uci.edu/ml/datasets/vertebral+column
 
 Description : Each patient in the data set is represented by six biomechanical attributes derived from the shape and orientation of the pelvis and lumbar spine: pelvic incidence, pelvic tilt, lumbar lordosis angle, sacral slope, pelvic radius and grade of spondylolisthesis. 
